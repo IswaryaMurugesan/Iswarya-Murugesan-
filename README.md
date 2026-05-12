@@ -54,7 +54,7 @@
 ## 📫 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/iswaryamurugesan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/IswaryaMurugesan" target="_blank">
@@ -79,9 +79,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IswaryaMurugesan&show_icons=true&theme=github_dark" alt="Iswarya's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IswaryaMurugesan&theme=github-dark" alt="Iswarya's GitHub Streak" />
-</p>
-
----
-
-<sub>Let’s connect and explore how business experience and analytics can drive your organization’s success!</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IswaryaMurugesan&theme=
